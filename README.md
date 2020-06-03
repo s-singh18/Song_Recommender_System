@@ -19,7 +19,7 @@ $ pip install --upgrade pip
 > Run code from terminal or cmd prompt
 
 ```shell
-$ python main_keras.py
+$ python main.py
 ```
 
 
